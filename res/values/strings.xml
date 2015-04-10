@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PresentsPresents</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_main_menu">Menu</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_start">Start</string>
+    <string name="action_sound_on_off">Sound On/Off</string>
+    
+    
+</resources>
